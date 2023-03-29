@@ -10,7 +10,7 @@
 ### 1.1 What is React?
 
 - React is a flexible, efficent Open Source UI Based JavaScript Library.
-- It is developed by Facebook in 2013 for building user interface.
+- It is developed by Facebook in 2013 for building user interface..
 
 ### 1.2 Why React?
 
